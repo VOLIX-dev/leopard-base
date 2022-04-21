@@ -34,8 +34,8 @@ github.com/stretchr/testify v1.2.2 h1:bSDNvY7ZPG5RlJ8otE/7V6gMiyenm9RtJ7IUVIAoJ1
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 github.com/tyler-sommer/stick v1.0.4 h1:kuHyr9FFBBPA5dWqHWNFiCdHBqj8Mr/xuCxx7uAbzIk=
 github.com/tyler-sommer/stick v1.0.4/go.mod h1:rjBy3zi6GwoxExa6OSRPPPaLqUEKNsBxTeWckhIX1us=
-github.com/volix-dev/leopard v0.0.2 h1:GLtI+9RHf8OngSlBocak7NSp9AFCQt9RZJ7XraM9RJY=
-github.com/volix-dev/leopard v0.0.2/go.mod h1:nvsFAhayQ5jqljebOHspG6l/An7Mmv9z3y7MfEeB0xo=
+github.com/volix-dev/leopard v0.0.3 h1:QUHYUWsSs9m9bGqo6KLt9Q+def8Zl+jGpnD3Wn8P6Io=
+github.com/volix-dev/leopard v0.0.3/go.mod h1:nvsFAhayQ5jqljebOHspG6l/An7Mmv9z3y7MfEeB0xo=
 golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd h1:O7DYs+zxREGLKzKoMQrtrEacpb0ZVXA5rIwylE2Xchk=
 golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd/go.mod h1:CfG3xpIq0wQ8r1q4Su4UZFWDARRcnwPjda9FqA0JpMk=
 golang.org/x/sys v0.0.0-20191026070338-33540a1f6037/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=

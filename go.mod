@@ -2,7 +2,7 @@ module project_name
 
 go 1.18
 
-require github.com/volix-dev/leopard v0.0.2
+require github.com/volix-dev/leopard v0.0.3
 
 require (
 	github.com/aws/aws-sdk-go v1.43.41 // indirect
